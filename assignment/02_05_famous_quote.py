@@ -1,2 +1,2 @@
-message = "Martin luther king once said, “All men are created equil”"
-print("Martin luther king once said, “All men are created equil”")
+message = " once said, “All men are created equil”"
+once said, “All men are created equil”"print("Martin luther king )

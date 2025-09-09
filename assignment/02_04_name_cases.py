@@ -1,3 +1,2 @@
-first_name = "autumn"
-last_name = "smith"
-full_name = f"autumn smith"
+message = "Martin luther king once said, “All men are created equil”"
+print("Martin luther king once said, “All men are created equil”")
