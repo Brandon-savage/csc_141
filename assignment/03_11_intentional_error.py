@@ -1,1 +1,0 @@
-while len(guests) > 2:

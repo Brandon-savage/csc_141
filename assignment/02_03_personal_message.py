@@ -1,1 +1,0 @@
-famous_person = f"Martin Luther king"
